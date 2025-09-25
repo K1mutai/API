@@ -1,6 +1,6 @@
 <?php
 //include the class file
-require 'ClassAutoLoad.php';
+require 'ClassAutoload.php';
 
 //call the methods
 $Layouts->heading($conf);
