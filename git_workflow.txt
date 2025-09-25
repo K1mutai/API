@@ -6,7 +6,7 @@ Git Workflow for User List Feature
 2. Added new files:
    git add users.php git_workflow.txt
 
-3. Committed changes:
+3. Commit changes:
    git commit -m "feat: Add numbered user list from database"
 
 4. Switched to main and merged:
