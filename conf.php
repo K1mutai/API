@@ -5,7 +5,7 @@ $conf['site_url'] = "http://localhost/Api/";
 $conf['site_email'] = "info@bbit.com";
 
 //site language
-$conf['site_lang'] = "en";
+$conf['site lang'] = 'en';
 
 //database constants
 $conf['db_type'] = "mysql";
